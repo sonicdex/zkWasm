@@ -68,7 +68,7 @@ cargo run --release --function <FUNCTION_NAME> --wasm <WASM_BINARY> solidity-agg
 # Operations Spec [WIP]
 We uses z3 (https://github.com/Z3Prover/z3) to check that all operation are compiled to zkp circuits correctly.
 
-[This is a WIP project, only sample code are provided here. Please contact xgao@zoyoe.com for state circuit customization and application integration. 
+This is a WIP project, only sample code are provided here. Please contact xgao@zoyoe.com for state circuit customization and application integration. 
 
 # Issue tracking:
 * chore: non-feature requirements such as CI/CD, building script or work flow enhancement.
